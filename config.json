@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalidate",
+        "uuid": 24964128,
+        "checksum": "xbkbee"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
